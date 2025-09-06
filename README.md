@@ -1,6 +1,6 @@
 # Risk Analysis of 1000 Companies
 
-https://public.tableau.com/app/profile/bugra.ozbek/viz/risk-advisory/Dashboard1?publish=yes
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/bugra.ozbek/viz/risk-advisory/Dashboard1?publish=yes)  
 
 ## Project Overview
 This project focuses on analyzing 1,000 simulated companies to identify financially vulnerable firms.  
