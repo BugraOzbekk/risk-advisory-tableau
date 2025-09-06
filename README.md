@@ -1,5 +1,7 @@
 # Risk Analysis of 1000 Companies
 
+https://public.tableau.com/app/profile/bugra.ozbek/viz/risk-advisory/Dashboard1?publish=yes
+
 ## Project Overview
 This project focuses on analyzing 1,000 simulated companies to identify financially vulnerable firms.  
 The dataset was originally sourced from Kaggle and enriched with synthetic company names and IDs (using the Faker library).  
@@ -19,7 +21,10 @@ The final dashboard highlights companies with high expenses but low profitabilit
 ---
 
 ## Tableau Dashboard
-A Tableau dashboard was developed to visualize company risk levels.
+A Tableau dashboard was developed to visualize company risk levels.  
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/bugra.ozbek/viz/risk-advisory/Dashboard1?publish=yes)
+
 
 ### Key Features
 - **Scatter Plot (Expenses vs. Profit):** Companies positioned by their expenses and profit.  
